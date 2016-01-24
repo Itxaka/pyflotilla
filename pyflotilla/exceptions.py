@@ -1,0 +1,2 @@
+class FlotillaNotFound(Exception):
+    pass
